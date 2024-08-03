@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-03T16:55:21 IST" name="Default suite" finished-at="2024-08-03T16:55:43 IST" duration-ms="21860">
+  <suite started-at="2024-08-03T16:58:32 IST" name="Default suite" finished-at="2024-08-03T16:58:36 IST" duration-ms="3848">
     <groups>
     </groups>
-    <test started-at="2024-08-03T16:55:21 IST" name="Default test" finished-at="2024-08-03T16:55:43 IST" duration-ms="21860">
+    <test started-at="2024-08-03T16:58:32 IST" name="Default test" finished-at="2024-08-03T16:58:36 IST" duration-ms="3848">
       <class name="mjd3_1.DemoTest2">
-        <test-method signature="demoTest1()[pri:0, instance:mjd3_1.DemoTest2@2d7275fc]" started-at="2024-08-03T16:55:21 IST" name="demoTest1" finished-at="2024-08-03T16:55:43 IST" duration-ms="21810" status="PASS">
+        <test-method signature="demoTest2()[pri:0, instance:mjd3_1.DemoTest2@3a93b025]" started-at="2024-08-03T16:58:32 IST" name="demoTest2" finished-at="2024-08-03T16:58:36 IST" duration-ms="3792" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demoTest1 -->
+        </test-method> <!-- demoTest2 -->
       </class> <!-- mjd3_1.DemoTest2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
