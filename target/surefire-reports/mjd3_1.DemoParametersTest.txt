@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: mjd3_1.DemoTest1
+Test set: mjd3_1.DemoParametersTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.195 s -- in mjd3_1.DemoTest1
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.308 s -- in mjd3_1.DemoParametersTest
